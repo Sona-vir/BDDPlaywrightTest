@@ -13,6 +13,8 @@
 
 # Reports
 /reports/
+/allure-results/
+/allure-report/
 
 # Screenshots
 /screenshots/
